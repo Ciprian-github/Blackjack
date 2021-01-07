@@ -221,7 +221,7 @@ while True:
             break
     except:
         print('Attention, idiot!!! \n Choose C or S.')
-
+# de schimbat
 
 
 
